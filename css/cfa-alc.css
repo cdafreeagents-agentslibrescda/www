@@ -23,3 +23,14 @@ li a.top-nav {
 li a:hover.top-nav {
     background-color: #111;
 }
+
+/* For vertically aligned (middle) text */
+p.event_desc {
+   
+    line-height: 14px;
+    height:75px;
+    margin: 0px;
+    display: table-cell;
+    vertical-align: middle;
+    padding: 10px;
+}
