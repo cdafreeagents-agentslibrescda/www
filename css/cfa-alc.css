@@ -34,3 +34,8 @@ p.event_desc {
     vertical-align: middle;
     padding: 10px;
 }
+
+ul.no {
+    list-style-type: none;
+    padding: 10;
+}
