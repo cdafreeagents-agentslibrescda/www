@@ -1,0 +1,25 @@
+<!-- This is the css theme for the Canada's Free Agent customizations. Author: Pierre-luc Pilon -->
+ul.top-nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li.top-nav {
+    float: left;
+}
+
+li a.topn-av {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover.top-nav {
+    background-color: #111;
+} 
